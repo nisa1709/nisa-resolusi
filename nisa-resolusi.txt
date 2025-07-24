@@ -2,3 +2,4 @@ NISA RESOLUSI
 -Mempelajari git dan github selama seminggu
 -Mempraktekkan git dan github
 -Mengumpulkan hasil
+-Mendokumentasikan
